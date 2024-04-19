@@ -4,7 +4,7 @@ function OpenSignupForm() {
 
 }
 function OpenLoginForm() {
-  window.open('Login.html' );
+  window.open('login.html' );
 }
 function more() {
   window.open('more.html' );
